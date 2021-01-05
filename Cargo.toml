@@ -1,0 +1,13 @@
+[package]
+name = "sudoku"
+version = "0.1.0"
+authors = ["The Rubberduck Ninja <me@rubberduck.ninja>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+#![allow(unused_imports)]
+
+[dependencies]
+arraymap = "0.1.1"
+bit-vec = "0.6.3"
